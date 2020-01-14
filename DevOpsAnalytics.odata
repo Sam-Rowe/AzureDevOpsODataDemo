@@ -1,0 +1,2 @@
+https://analytics.dev.azure.com/{Organisation}/{Project}/_odata/v3.0-preview/WorkItems?
+    $select=WorkItemId
