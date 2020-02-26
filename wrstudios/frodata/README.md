@@ -2,7 +2,7 @@
     apt install ruby-nokogiri
     apt install ruby2.5-dev
     apt install zlib1t-dev
-    gem install nokogiri -v '1.10.7'
+    gem install nokogiri -v '1.10.8'
     
     Then you can bundle install in the directory
 
