@@ -2,6 +2,7 @@
     apt install ruby-nokogiri  
     apt install ruby2.5-dev  
     apt install zlib1t-dev  
+    apt install libz-dev
     gem install nokogiri -v '1.10.8'  
 
 
